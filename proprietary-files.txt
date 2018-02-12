@@ -76,10 +76,6 @@ vendor/lib/libMcClient.so
 vendor/lib/libMcRegistry.so
 lib/liboemcrypto.so
 
-# NFC
-vendor/firmware/sec_s3fwrn5s_firmware.bin
-etc/sec_s3fwrn5s_rfreg.bin
-lib/hw/nfc_nci.universal7580.so
 
 # Noise supppression
 vendor/etc/nxp/WifiCallingHAC/Tx_ControlParams_WIDEBAND_SLD.txt
