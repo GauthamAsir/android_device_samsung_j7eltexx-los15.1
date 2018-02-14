@@ -17,7 +17,7 @@
 # Inherit from Exynos7580-common
 include device/samsung/exynos7580-common/BoardConfigCommon.mk
 
-TARGET_OTA_ASSERT_DEVICE := j7eltexx 
+TARGET_OTA_ASSERT_DEVICE := j7elte,j7eltexx 
 
 DEVICE_PATH := device/samsung/j7eltexx
 
