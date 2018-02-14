@@ -8,5 +8,5 @@ TARGET_CUSTOM_DTBTOOL := dtbhtoolExynos
 # Kernel
 #BOARD_KERNEL_CMDLINE := The bootloader ignores the cmdline from the boot.img
 TARGET_KERNEL_CONFIG := lineageos_j7elte_defconfig
-TARGET_KERNEL_SOURCE := kernel/samsung/exynos7580-common
+TARGET_KERNEL_SOURCE := kernel/samsung/j7elte
 BOARD_KERNEL_IMAGE_NAME := Image
